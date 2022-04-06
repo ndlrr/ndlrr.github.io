@@ -1,1 +1,0 @@
-<?php $page = "Accueil"; require_once "header.php"; ?>
