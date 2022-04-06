@@ -1,2 +1,0 @@
-# ndlrr.github.io
-Portfolio
